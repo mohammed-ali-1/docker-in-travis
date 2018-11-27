@@ -1,3 +1,5 @@
+sleep 40
+
 HELMQA_URL=http://127.0.0.1:5000/livecheck?repo
 GIT_REPO=https://github.com/mohammed-ali-1/charts.git
 
